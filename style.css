@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Bellefair', serif;
+    background-image: url("http://cdn.wallpapersafari.com/42/88/clLTZN.jpg");
+    background-attachment: fixed;
+}
+
+.heading{
+    margin: 25rem 20rem 20rem 20rem;
+    padding: 5rem 0 0 65rem;
+}
+
+.middle{
+    background-color: #6b5943;
+    max-height: 35rem;
+    padding-top: 2rem;
+}
+
+.icon{
+    padding: 0rem 5rem 0rem 5rem;
+}
+.bottom{
+    padding: 15rem 0 15rem 0;
+}
+
+.footer{
+    background-color: #6b5943;
+    padding: 2.5rem 0 2.5rem 0;
+}
